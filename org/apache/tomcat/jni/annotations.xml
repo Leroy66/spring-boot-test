@@ -1,0 +1,5 @@
+<root>
+    <item name='org.apache.tomcat.jni.User'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
